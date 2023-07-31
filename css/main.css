@@ -230,10 +230,16 @@ footer .social-icons {
 }
 
 footer .social-icons p {
+  background-color: #527158;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
   display: flex;
   justify-content: center;
   align-items: center;
 }
+
+
 
 footer .copyright {
   margin: 20px 0;

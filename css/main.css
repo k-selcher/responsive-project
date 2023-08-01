@@ -225,17 +225,19 @@ footer .contact {
 }
 
 footer .social-icons {
-  width: 12.5em;
-  justify-content: space-between;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
   
 }
 
 footer .social-icons p {
   background-color: #527158;
   border-radius: 50%;
+  width: 40px;
+  height: 40px;
   margin: 5px;
-  width: 50px;
-  height: 50px;
   display: flex;
   justify-content: center;
   align-items: center;
